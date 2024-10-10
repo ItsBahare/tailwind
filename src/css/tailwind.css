@@ -2,3 +2,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* 
+@layer base {
+  :root {
+    --color-rose: #dfdfe580;
+    
+    ;
+    --color-gray: #36385380;
+
+
+  }
+} */
