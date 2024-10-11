@@ -4,14 +4,21 @@
 @tailwind utilities;
 
 
-/* 
-@layer base {
+
+ /* @layer base {
   :root {
-    --color-rose: #dfdfe580;
+    --color-rose:
+
+
+
+    ;
+
+    ;
     
     ;
-    --color-gray: #36385380;
+    --color-gray:;
+
 
 
   }
-} */
+}  */

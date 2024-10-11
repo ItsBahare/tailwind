@@ -11,6 +11,8 @@ module.exports = {
         900: "#4A6DFF"
       },
       secondary: {
+        200:"#bfc0cb",
+        600:"#6a6c87",
         700: "#555775",
         800: '#3F4264',
         900: '#2A2D53',
@@ -19,6 +21,7 @@ module.exports = {
       gray:"#36385380",
       red:"#ff0000cc",
       light:"#dfdfe580",
+      yellow:"#ff9900;",
     }, 
     extend: {
       fontFamily: {
