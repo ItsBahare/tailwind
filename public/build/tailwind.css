@@ -525,9 +525,6 @@ video {
 .max-w-screen-xl{
   max-width: 1280px;
 }
-.max-w-screen-lg{
-  max-width: 1024px;
-}
 .cursor-pointer{
   cursor: pointer;
 }
@@ -666,30 +663,7 @@ video {
 .text-yellow{
   color: #ff9900;;
 }
-
-
-
- /* @layer base {
-  :root {
-    --color-rose:
-
-
-
-    ;
-
-    ;
-    
-    ;
-    --color-gray:;
-
-
-
-  }
-}  */
-
-
-
- @media (min-width: 640px){
+@media (min-width: 640px){
   .sm\:col-start-3{
     grid-column-start: 3;
   }
@@ -726,27 +700,9 @@ video {
     line-height: 1.25rem;
   }
 }
-
-
-
- @media (min-width: 768px){
-  .md\:grid-cols-2{
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-
-
- @media (min-width: 1024px){
-  .lg\:grid-cols-2{
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-
-
- @media (min-width: 1280px){
+@media (min-width: 1280px){
   .xl\:grid-cols-2{
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
+
